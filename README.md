@@ -8,7 +8,7 @@ This repository contains the code and final thesis for my **Tufts University Sen
 This project introduces a novel comparison framework for Mapper outputs in **computational topology** using **metric measure space theory** and the **Gromov–Wasserstein (GW) metric**. The approach provides a quantitative and robust method for comparing shapes and detecting topological divergence in noisy datasets.
 
 ## Contents
-- `thesis_code.ipynb` — Core notebook for data generation, Mapper construction, and Gromov–Wasserstein distance computation.  
+- `Mapper_real.py` — Core notebook for data generation, Mapper construction, and Gromov–Wasserstein distance computation.  
 - `A_New_Comparison_Metric_for_Computational_Topology.pdf` — Full thesis describing the theory, implementation, and experimental results.  
 
 ## Key Results
