@@ -2,7 +2,7 @@
 
 This repository contains the code and final thesis for my **Tufts University Senior Honors Thesis (May 2021)**, completed under the supervision of the Department of Mathematics.
 
-📄 **Thesis PDF:** `A_New_Comparison_Metric_for_Computational_Topology.pdf`
+📄 **[A New Comparison Metric for Computational Topology](https://dl.tufts.edu/concern/pdfs/9593v843r)**
 
 ## Overview
 This project introduces a novel comparison framework for Mapper outputs in **computational topology** using **metric measure space theory** and the **Gromov–Wasserstein (GW) metric**. The approach provides a quantitative and robust method for comparing shapes and detecting topological divergence in noisy datasets.
